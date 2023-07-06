@@ -19,5 +19,5 @@ The blog is written by [Klaus Haeuptle](https://www.linkedin.com/in/klaus-h%C3%A
 
 I hope you enjoy reading this blog and find it useful for your own software projects.
 
-Most of the content is published in the substack newsletter. Some selected topics are published in addition on this GitHub repository. E.g. the onboarding guide and checklists for software engineers.
+Most of the content is published in the substack newsletter. Some selected topics are published in addition on this GitHub repository. E.g. the [onboarding guide and checklists for new hires and software engineers changing roles and technology stacks](https://github.com/SoftwareEngineeringEcosystem/Blog/blob/main/Onboarding-Agile-Software-Engineers/Onboarding-software-developers-java-javascript-abap.md).
 
