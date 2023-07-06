@@ -16,8 +16,9 @@ The following checklist is a general template for the onboarding of a new UI5 en
 - [ ] Mentor assigned and ensured that Mentor can spend significant time with the new software engineer: Probably the most important step.
 - [ ] The mentor does organize pair programming sessions and / or Code Reviews with the new engineer
 - [ ] Every existing team member should be accessible to the new hire. Onboarding the new team member is a team effort and should have the highest priority, since the return on the investment is so large.
+- [ ] Before installing your tools consider that some software could be blacklisted by your company
 - [ ] Install IDE
-- [ ] [Fix a small bug with the mentor in a safe environment in pairing mode with the mentor](../Onboarding-Agile-Software-Engineers/SAP-Technologies/ABAP/EfficientUseOfIDEsforABAP.md)
+- [ ] [Fix a small bug with the mentor in a safe environment in pairing mode with the mentor](../Onboarding-Agile-Software-Engineers/General/FixABugWithTheMentor.md)
 - [ ] Learn JavaScript, UI5 and FIORI Elements
 - [ ] Learn Git and GitHub when appropriate
 - [ ] Learn the efficient usage of the most productive IDE
