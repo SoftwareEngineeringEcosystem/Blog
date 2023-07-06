@@ -4,7 +4,6 @@ The main intention of this blog is to motivate the importance of onboarding new 
 
 Paying careful attention to the onboarding of new software engineers can pay huge dividends, and is a key to transforming new software engineers into strong, effective contributors. Besides positive practices (e.g. Test Driven Development or Clean Code) are much easier to establish early on, not once the software engineer has settled into a routine. Therefore, this document is a proposal to how to structure the onboarding process. The goal is to have very hands-on onboarding in order to make the new software engineer confident to make changes. There is simply no better way to learn than by diving into the code.
 
-
 ## Why is Onboarding of Software Engineers Important?
 
 Onboarding is the process of integrating new hires into an organization, from completing paperwork and learning values to gaining familiarity with the tech stack and partnering with a mentor. Onboarding is more than just a formality; it is a crucial step to ensure the long-term success and retention of software engineers.
