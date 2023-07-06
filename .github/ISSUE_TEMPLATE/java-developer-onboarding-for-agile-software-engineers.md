@@ -1,13 +1,14 @@
 ---
-name: Nodejs_Onboarding
-about: Template for onboarding new node.js engineers
-title: Onboarding new node.js Engineers
+name: Java_Onboarding
+about: Template for onboarding new Java engineers
+title: Onboarding new Java Engineers
 labels: ''
 assignees: ''
 
 ---
-The following checklist is a general template for the onboarding of a new node.js engineer (developer, architect and quality engineer). It does not cover role specific learning yet. While most topics are strongly recommended, the sequence and how it is concretely done needs to be discussed between mentor and mentee.
+The template is intended to show how GitHub templates can be used to tailor the onboarding path to team specifics.
 
+The following checklist is a general template for the onboarding of a new Java software engineer (developer, architect and quality engineer). The template is not intended to cover every detail of the onboarding and probably a team or company specific onboarding template would cover more topics. While most topics are strongly recommended, the sequence and how it is concretely done needs to be discussed between manager, mentor and mentee.
 
 - [ ] **Subscribe to the newsletter on software engineering:** The newsletter will be used to share thoughts, principles, practices, tools and technology about software engineering, craftsmanship and architecture for building software systems.  Stay informed by subscribing to our free newsletter: https://ecosystem4engineering.substack.com/
 - [ ] Mentor assigned and ensured that Mentor can spend significant time with the new software engineer: Probably the most important step.
@@ -15,7 +16,7 @@ The following checklist is a general template for the onboarding of a new node.j
 - [ ] Every existing team member should be accessible to the new hire. Onboarding the new team member is a team effort and should have the highest priority, since the return on the investment is so large.
 - [ ] Before installing your tools consider that some software could be blacklisted by your company
 - [ ] Install IDE
-- [ ] [Fix a small bug with the mentor in a safe environment in pairing mode with the mentor](../Onboarding-Agile-Software-Engineers/General/FixABugWithTheMentor.md)
+- [ ] [Fix a small bug with the mentor in a safe environment in pairing mode with the mentor](../../Onboarding-Agile-Software-Engineers/General/FixABugWithTheMentor.md)
 - [ ] Get familiar with the onboarding guide
 - [ ] Learn JavaScript, TypeScript and node.js
 - [ ] [Attend a Git and GitHub Training when appropriate](https://docs.github.com/en/get-started/quickstart/set-up-git)
