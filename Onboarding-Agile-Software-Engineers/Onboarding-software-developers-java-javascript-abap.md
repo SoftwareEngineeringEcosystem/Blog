@@ -93,25 +93,25 @@ The following templates can be used as a starting point for your own onboarding 
 
 If you want to become an ABAP engineer or want to mentor someone in becoming an ABAP engineer, you can use the following templates as a starting point and adjust them to your needs. 
 
-[ABAP Template Checklist for Onboarding new ABAP software engineers](https://github.com/SoftwareEngineeringEcosystem/Blog/blob/main/ISSUE_TEMPLATE/abap-developer-onboarding-for-agile-software-engineers.md)
+[ABAP Template Checklist for Onboarding new ABAP software engineers](https://github.com/SoftwareEngineeringEcosystem/Blog/blob/main/.github/ISSUE_TEMPLATE/abap-developer-onboarding-for-agile-software-engineers.md)
 
 ### SAPUI5
 
 If you want to become an SAPUI5 engineer or want to mentor someone in becoming an SAPUI5 engineer, you can use the following templates as a starting point and adjust them to your needs.
 
-[SAPUI5 Template Checklist for Onboarding new SAPUI5 software engineers](https://github.com/SoftwareEngineeringEcosystem/Blog/blob/main/ISSUE_TEMPLATE/sapui5-developer-onboarding-for-agile-software-engineering.md)
+[SAPUI5 Template Checklist for Onboarding new SAPUI5 software engineers](https://github.com/SoftwareEngineeringEcosystem/Blog/blob/main/.github/ISSUE_TEMPLATE/sapui5-developer-onboarding-for-agile-software-engineering.md)
 
 ### Java
 
 If you want to become an Java engineer or want to mentor someone in becoming an Java engineer, you can use the following templates as a starting point and adjust them to your needs.
 
-[Java Template Checklist for Onboarding new software engineers](https://github.com/SoftwareEngineeringEcosystem/Blog/blob/main/.ISSUE_TEMPLATE/java-developer-onboarding-for-agile-software-engineers.md)
+[Java Template Checklist for Onboarding new software engineers](https://github.com/SoftwareEngineeringEcosystem/Blog/blob/main/.github/ISSUE_TEMPLATE/java-developer-onboarding-for-agile-software-engineers.md)
 
 ### JavaScript and node.js
 
 If you want to become a node.js engineer or want to mentor someone in becoming an node.js engineer, you can use the following templates as a starting point and adjust them to your needs.
 
-[Node.js Template Checklist for Onboarding new software engineers](https://github.com/SoftwareEngineeringEcosystem/Blog/blob/main/.ISSUE_TEMPLATE/nodejs-developer-onboarding-for-agile-software-engineers.md)
+[Node.js Template Checklist for Onboarding new software engineers](https://github.com/SoftwareEngineeringEcosystem/Blog/blob/main/.github/ISSUE_TEMPLATE/nodejs-developer-onboarding-for-agile-software-engineers.md)
 
 ## How to use the GitHub Issue Templates for Onboarding a Software Engineer?
 
