@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-The template is intended to show how GitHub templates can be used to tailor the onboarding path to team specifics.
+The template is intended to show [how GitHub templates can be used to tailor the onboarding path to team specifics](https://ecosystem4engineering.substack.com/p/onboarding-of-new-software-engineers).
 
 The following checklist is a general template for the onboarding of a new UI5 engineer (developer, architect and quality engineer). The template is not intended to cover every detail of the onboarding and probably a team or company specific onboarding template would cover more topics. While most topics are strongly recommended, the sequence and how it is concretely done needs to be discussed between mentor and mentee.
 
@@ -29,4 +29,5 @@ The following checklist is a general template for the onboarding of a new UI5 en
 - [ ] Take part in coding dojos
 - [ ] Form networks with other new hires and mentors
 - [ ] Learn about existing communities in the SAP Community
+- [ ] [Learn the basics of generative AI and leveraging Large Language Models (LLMs) for software engineering](../../Onboarding-Agile-Software-Engineers/General/LLM-GenerativeAI-Onboarding-SoftwareEngineers.md)
 

@@ -6,8 +6,9 @@ labels: ''
 assignees: ''
 
 ---
-The following checklist is a general template for the onboarding of a new node.js engineer (developer, architect and quality engineer). It does not cover role specific learning yet. While most topics are strongly recommended, the sequence and how it is concretely done needs to be discussed between mentor and mentee.
+The template is intended to show [how GitHub templates can be used to tailor the onboarding path to team specifics](https://ecosystem4engineering.substack.com/p/onboarding-of-new-software-engineers).
 
+The following checklist is a general template for the onboarding of a new node.js engineer (developer, architect and quality engineer). It does not cover role specific learning yet. While most topics are strongly recommended, the sequence and how it is concretely done needs to be discussed between mentor and mentee.
 
 - [ ] **Subscribe to the newsletter on software engineering:** The newsletter will be used to share thoughts, principles, practices, tools and technology about software engineering, craftsmanship and architecture for building software systems.  Stay informed by subscribing to our free newsletter: https://ecosystem4engineering.substack.com/
 - [ ] Mentor assigned and ensured that Mentor can spend significant time with the new software engineer: Probably the most important step.
@@ -27,4 +28,5 @@ The following checklist is a general template for the onboarding of a new node.j
 - [ ] Your Product Owner explained the business context of the developed application
 - [ ] Take part in coding dojos
 - [ ] Form networks with other new hires and mentors
+- [ ] [Learn the basics of generative AI and leveraging Large Language Models (LLMs) for software engineering](../../Onboarding-Agile-Software-Engineers/General/LLM-GenerativeAI-Onboarding-SoftwareEngineers.md)
 
