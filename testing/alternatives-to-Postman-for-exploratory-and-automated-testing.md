@@ -47,8 +47,7 @@ The following further disadvantages of a Postman setup were mentioned by teams a
 - High complexity of test sequences and scripts in Postman / Newman.
 - Poor maintainability, unstable execution.
 - No IDE integration of Postman: different environment for developing these tests compared to the rest of the code.
-- Lack of GitHub integration of test code.
-- No version control, which also means no Pull Requests or code review.
+- No version control, which means no GitHub integration, no Pull Requests, and no code review.
 - The common approach to store collections externally in the cloud can be incompliant with company policies. On the other hand, sharing code instead in an repository is transparent and compliant.
 
 ## Recommendations: Alternative for Postman and Insomnia for Automated System Testing
