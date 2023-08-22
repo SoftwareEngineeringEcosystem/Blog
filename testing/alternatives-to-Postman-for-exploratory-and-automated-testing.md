@@ -36,16 +36,20 @@ Code based open source tools are better for automated API system testing for the
 
 - **Maintainability**: Code based open source tools allow the user to write test scripts using a programming language, which gives them more control and flexibility over the test logic and flow. This makes it easier to maintain and update the test scripts as the APIs change or evolve. On the other hand, GUI based tools like Postman or Insomnia rely on a graphical interface, which can be cumbersome and prone to errors when dealing with complex or dynamic scenarios. Moreover, code based open source tools can leverage existing frameworks and libraries that provide reusable and modular code components, which can improve the readability and maintainability of the test scripts.
 - **Integration**: Code based open source tools can be easily integrated with other tools and systems, such as continuous integration (CI), continuous delivery (CD), version control, reporting, etc. This can enhance the automation and collaboration capabilities of the testing process. GUI based tools like Postman or Insomnia have some extensibility features, but they are not as comprehensive or customizable as code based open source tools.
-- **Cost-effectiveness**: Code based open source tools are free and open source, meaning that anyone can use them without paying any fees or licenses. This can save a lot of money and time for the users, as they do not have to worry about purchasing or renewing subscriptions or licenses. GUI based tools like Postman or Insomnia have free versions, but they also have paid plans that offer more features and functionalities. Sometimes these paid plans can be quite expensive or the license come with changes of terms and conditions that can be problematic for the users. Test code can be as important as productive code. You need to consider that for some products the code will need to be maintained for many decades. Sometimes the test code even outlives the productive code, since it contains the domain knowledge in the format of tests. This can remain relevant even if you rewrite the productive code. With 3rd party tools, there comes a risk and a dependency to the supplier including licensing issues. Therefore, for test code you should prefer open source tools over 3rd party tools. 
+- **Cost-effectiveness**: Code based open source tools are free and open source, meaning that anyone can use them without paying any fees or licenses. This can save a lot of money and time for the users, as they do not have to worry about purchasing or renewing subscriptions or licenses. GUI based tools like Postman or Insomnia have free versions, but they also have paid plans that offer more features and functionalities. Sometimes these paid plans can be quite expensive or the license come with changes of terms and conditions that can be problematic for the users. Test code can be as important as productive code. You need to consider that for some products the code will need to be maintained for many decades. Sometimes the test code even outlives the productive code, since it contains the domain knowledge in the format of tests. This can remain relevant even if you rewrite the productive code. With 3rd party tools, there comes a risk and a dependency to the supplier including licensing issues.
+
+Therefore, for test code you should prefer open source tools over 3rd party tools. 
 
 ## Further benefits mentioned by teams after migrating to code-based tools for automation
 
 The following further disadvantages of a Postman setup were mentioned by teams after migrating to code-based tools for automation:
 
-- High complexity of test sequences and scripts in Postman / Newman  Poor maintainability, unstable execution
+- High complexity of test sequences and scripts in Postman / Newman.
+- Poor maintainability, unstable execution.
 - No IDE integration of Postman: different environment for developing these tests compared to the rest of the code.
-- Lack of GitHub integration of test code  no normal working with PRs and code review in PR etc. possible
-- The common approach to store collections externally in the cloud can be incompliant with company policies. On the other hand,  sharing code instead in an repository is transparent and compliant
+- Lack of GitHub integration of test code.
+- No version control, which also means no Pull Requests or code review.
+- The common approach to store collections externally in the cloud can be incompliant with company policies. On the other hand, sharing code instead in an repository is transparent and compliant.
 
 ## Recommendations: Alternative for Postman and Insomnia for Automated System Testing
 
